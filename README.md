@@ -8,7 +8,7 @@ Support this project by helping keep the servers up
 
 just paste this into your anime repo 
 ```
-https://kohiden.xyz/Kohi-den/extensions/raw/branch/main/index.min.json
+https://raw.githubusercontent.com/mistknengineer/extensions-source-kohiden/refs/heads/repo/index.min.json
 ```
 If your interested in installing just the apks they can be found [Here](https://kohiden.xyz/Kohi-den/extensions/src/branch/main/apk)
 
